@@ -1,8 +1,8 @@
-body
+html
 {
-  background-color: gray;
-  text-decoration-color: blue;
+  background-color: blue;
 }
+
 header
 {
   text-align: center;
