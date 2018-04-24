@@ -1,3 +1,3 @@
-#Gitting Some Practice
-##James R. Allen
+# Gitting Some Practice
+## James R. Allen
 # Spring
